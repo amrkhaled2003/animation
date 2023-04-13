@@ -1,0 +1,189 @@
+body{
+    height: 1550px; 
+  background-image: url(../image/empty-straight-road-with-marking-horizontal-highway-overhead-view-seamless-roadway-template-carriageway-element-of-city-map-vector.webp);
+}
+
+
+
+
+
+.div1{
+    width: 180px; height: 180px;
+animation-name: mohamed ;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+
+position: absolute;
+
+}
+@keyframes mohamed {
+    0%{
+      
+left: 0;
+    }
+   
+    100%{
+
+left: 1220px;
+
+    }
+}
+
+/* ////////////////////// */
+.div2{
+    width: 180px; height: 180px;
+  
+animation-name: amrr;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+position: absolute;
+animation-delay: 3s;
+margin-top: 200px;
+margin-left: 1350px;
+}
+@keyframes amrr {
+    0%{
+
+right: 0;
+    }
+   
+    100%{
+
+right: 1350px;
+    }
+}
+/* /////////////////// */
+.div3{
+    width: 180px; height: 180px;
+  
+animation-name: ahmed ;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+position: absolute;
+animation-delay: 6s;
+margin-top: 400px;
+}
+@keyframes ahmed {
+    0%{
+
+left: 0;
+    }
+   
+    100%{
+
+left: 1220px;
+    }
+}
+/* ////////////////////// */
+.div4{
+    width: 180px; height: 180px;
+
+animation-name: amr;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+position: absolute;
+animation-delay: 9s;
+margin-top: 600px;
+margin-left: 1350px;
+}
+@keyframes amr {
+    0%{
+
+right: 0;
+    }
+   
+    100%{
+
+right: 1345px;
+    }
+}
+/* /////////////////////// */
+.div5{
+    width: 180px; height: 180px;
+  
+animation-name: mustafa;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+position: absolute;
+animation-delay: 12s;
+margin-top: 800px;
+}
+@keyframes mustafa {
+    0%{
+
+left: 0;
+    }
+   
+    100%{
+
+left: 1220px;
+    }
+}
+/* /////////////////////// */
+.div6{
+    width: 180px; height: 180px;
+
+animation-name: amr;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+position: absolute;
+animation-delay: 15s;
+margin-top: 1000px;
+margin-left: 1350px;
+}
+@keyframes amr {
+    0%{
+
+right: 0;
+    }
+   
+    100%{
+
+right: 1345px;
+    }
+}
+/* ////////////////////////// */
+.div7{
+    width: 180px; height: 180px;
+
+animation-name: change ;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+position: absolute;
+animation-delay: 17s;
+margin-top: 1200px;
+}
+@keyframes change {
+    0%{
+
+left: 0;
+    }
+   
+    100%{
+
+left: 1220px;
+    }
+}
+/* ////////////// */
+.div8{
+    width: 180px; height: 180px;
+
+animation-name: amr;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+position: absolute;
+animation-delay: 20s;
+margin-top: 1400px;
+margin-left: 1350px;
+}
+@keyframes amr {
+    0%{
+
+right: 0;
+    }
+   
+    100%{
+
+right: 1345px;
+    }
+}
